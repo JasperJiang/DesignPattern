@@ -1,0 +1,45 @@
+
+S
+#src/DuckSample/fly/FlyBehavior.java,b/e/be91f91e31ea520bcf372bf693a97cd17d31348a
+P
+ src/DuckSample/fly/FlyNoWay.java,0/c/0c562c96b4a206533512bc1d055a82d8cd1e4353
+S
+#src/DuckSample/fly/FlyWithWing.java,c/3/c3cb770900d484a1b55e06644a72b1e00077e569
+S
+#src/DuckSample/quack/MuteQuack.java,5/a/5ae6efd98aec69ddc2b91d06ea117aee506baea1
+W
+'src/DuckSample/quack/QuackBehavior.java,7/9/798ef7de9c74c0b9b1c7d08183c3b5c6d34de72b
+O
+src/DuckSample/MallardDuck.java,b/8/b8f4253f8356bac9a6a89c6d72674c130270fce6
+P
+ src/DuckSample/quack/Squeak.java,c/8/c837b8c5f1af3d3b1c56d51dc6a4b851940678ef
+X
+(src/DuckSample/fly/FlyRocketPowered.java,b/6/b656a84b0b86a3404f7e4cadfb2cb46dc5bfe52f
+H
+src/DuckSample/Duck.java,7/8/783ff7bffcb3194b2ad27b4e36422831201bbc4c
+M
+src/DuckSample/ModelDuck.java,9/d/9d4c5d3b05077c2c39e6cb40e75cf756ada55884
+U
+%src/DuckSample/MiniDuckSimulator.java,c/8/c8f5463d8fb531662d038b872ed395724d28d3dd
+Y
+)src/WeatherStation/observer/Observer.java,0/0/00ebd580cfcebfbafa9f4f347c63d876634a270c
+`
+0src/WeatherStation/observer/DisplayBehavior.java,7/c/7c70d3b2d649e98484a1eade7a7e1f09768f163a
+V
+&src/WeatherStation/WeatherStation.java,b/a/ba41dc00bef7d5488e7d7a15d1cc3b69cf6a82a1
+W
+'src/WeatherStation/subject/Subject.java,a/2/a2d078dc1ce9a54246cfdb03f6d93e1186ae4135
+h
+8src/WeatherStation/observer/CurrentConditionDisplay.java,1/6/16c3f1481bb712d47b8946a18952fa44c0ad33bc
+[
++src/WeatherStation/subject/WeatherData.java,8/3/839fcb20293291286757cc10e7ae2249068b209f
+a
+1src/WeatherStation2/observer/DisplayBehavior.java,0/5/056d656ea321fd9ddb533ff482152acae0bc39af
+i
+9src/WeatherStation2/observer/CurrentConditionDisplay.java,7/5/7503514d9a2ce7d45504e6c3adce68033a961df9
+W
+'src/WeatherStation2/WeatherStation.java,8/8/88fedbc2339911d32da7a1cd41c435d6b9ff49af
+\
+,src/WeatherStation2/subject/WeatherData.java,0/5/0578126d39bdfae3c4530e276066c4687c596398
+b
+2src/SwingObserverExample/SwingObserverExample.java,e/a/eaa21160753e5244414f5c0a4b3d91345cd6ea95
