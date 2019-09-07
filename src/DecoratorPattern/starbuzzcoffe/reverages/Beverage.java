@@ -1,4 +1,4 @@
-package DecoratorPattern.reverages;
+package DecoratorPattern.starbuzzcoffe.reverages;
 
 public abstract class Beverage {
 

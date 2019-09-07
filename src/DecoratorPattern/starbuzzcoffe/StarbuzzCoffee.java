@@ -1,10 +1,10 @@
-package DecoratorPattern;
+package DecoratorPattern.starbuzzcoffe;
 
-import DecoratorPattern.condiments.Mocha;
-import DecoratorPattern.condiments.Soy;
-import DecoratorPattern.reverages.Beverage;
-import DecoratorPattern.reverages.DarkRost;
-import DecoratorPattern.reverages.Espresso;
+import DecoratorPattern.starbuzzcoffe.condiments.Mocha;
+import DecoratorPattern.starbuzzcoffe.condiments.Soy;
+import DecoratorPattern.starbuzzcoffe.reverages.Beverage;
+import DecoratorPattern.starbuzzcoffe.reverages.DarkRost;
+import DecoratorPattern.starbuzzcoffe.reverages.Espresso;
 
 public class StarbuzzCoffee {
     public static void main(String[] args) {

@@ -1,6 +1,6 @@
-package DecoratorPattern.condiments;
+package DecoratorPattern.starbuzzcoffe.condiments;
 
-import DecoratorPattern.reverages.Beverage;
+import DecoratorPattern.starbuzzcoffe.reverages.Beverage;
 
 public class Soy extends CondimentDecorator {
     Beverage beverage;
