@@ -34,3 +34,9 @@
 *单例模式确保一个类只有一个实例，并提供一个全局访问点*
 
 [例子 - 单例类](src/SingletonPattern/Singleton)
+
+# 命令模式 Command Pattern
+
+*命令模式将"请求"封装成对象，以便使用不同的请求、队列或者日志来参数化其他对象。命令模式也支持可撤销的操作*
+
+[例子 - 遥控器](src/CommandPattern/RemoteControl)
